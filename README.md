@@ -2,11 +2,10 @@
 
 I'm **Johann Six** — a **Full-Stack Developer** with a backend focus, currently deep in **Go** and exploring **Swift/SwiftUI**.
 
-🌍 French native   Fluent in English, Spanish and Learning Portuguese
-🌎 World traveler who discovered programming during COVID
-🎓 Self-taught via [The Odin Project](https://www.theodinproject.com) → Formal training in Rouen (Need For School) → Continuous learning on [boot.dev](https://boot.dev)
-
-⚡ **Solo entrepreneur** building **custom backend services and web solutions** for clients
+- 🌍 French native   Fluent in English, Spanish and Learning Portuguese
+- 🌎 World traveler who discovered programming during COVID
+- 🎓 Self-taught via [The Odin Project](https://www.theodinproject.com) → Formal training in Rouen (Need For School) → Continuous learning on [boot.dev](https://boot.dev)
+- ⚡ **Solo entrepreneur** building **custom backend services and web solutions** for clients
 
 ---
 
@@ -22,9 +21,9 @@ I'm **Johann Six** — a **Full-Stack Developer** with a backend focus, currentl
 
 ### 🔭 What I'm up to
 
-💻 Building **dev tools** for macOS (SwiftUI)
-🌱 Learning **SwiftUI, backend architecture** and refining my **Go expertise**
-💬 Ask me about **travel, tech, or building in public**
+- 💻 Building **dev tools** for macOS (SwiftUI)
+- 🌱 Learning **SwiftUI, backend architecture** and refining my **Go expertise**
+- 💬 Ask me about **travel, tech, or building in public**
 
 ---
 
